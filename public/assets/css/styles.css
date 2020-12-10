@@ -34,12 +34,16 @@ html, body {
   font-size: 3rem;
 }
 
+.note-title:focus, .note-textarea:focus {
+  background-color: #e8fcf8;
+}
+
 .note-title:read-only, .note-textarea:read-only {
   color: #757575;
 }
 
 .list-container .card {
-  height: calc(100vh - 70px);
+  min-height: calc(100vh - 400px);
   border-bottom: none;
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
@@ -67,4 +71,8 @@ html, body {
   border-right: none;
   padding: 20px;
   cursor: pointer;
+}
+
+.list-group-item:hover {
+  background-color: #e8fcf8;
 }
