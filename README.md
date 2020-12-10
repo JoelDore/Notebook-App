@@ -14,10 +14,7 @@
 * [Usage](#Usage)  
 * [Technologies](#Technologies-Used)  
 * [Contributing](#Contributing)  
-<!-- 
-* [Reflection](#Reflection)  
-* [Future Development](#Future-Development)  
--->
+* [Future Scope](#Future-Scope)  
 * [Questions](#Questions)
 
 ## Installation
@@ -47,8 +44,9 @@ Contributions welcome!
 3. Commit/push your changes  
 4. Create a new pull request  
 
-## Future Development
+## Future Scope
 -  Add ability for user to edit notes
+- Add `Dark Mode` toggle
 
 ## Questions  
 If you have any questions, feel free to create an [Issue](https://github.com/JoelDore/Notebook-App/issues) or contact me directly at dore.joel.dore@gmail.com
