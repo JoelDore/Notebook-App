@@ -31,7 +31,7 @@ Currently deployed with [Heroku App](https://jd-notetaker.herokuapp.com/)
 1. Saved notes will appear in left column - click a saved note to view it.
 1. Click the `🗑️` icon next to any saved note to delete it.
 
-![Demo](./Images/demo.gif)
+![Demo](./images/demo.gif)
 
 ## Technologies Used
 - [Express.js](https://expressjs.com/) (backend)
