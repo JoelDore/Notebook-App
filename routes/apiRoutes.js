@@ -23,7 +23,7 @@ module.exports = (app) => {
     // Handle api DELETE requests
     app.delete('/api/notes/:id', (req, res) => {
         // Remove note by ID
-        const delIndex = notes.findIndex(note => note.id === req.params.id)
+        const delIndex = notes.findIndex(note => note.id === parseInt(req.params.id))
         const removed = notes.splice(delIndex, 1)
 
         // Write to db.json
