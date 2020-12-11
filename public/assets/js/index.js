@@ -90,6 +90,7 @@ const handleNoteView = function () {
 const handleNewNoteView = function () {
   activeNote = {};
   renderActiveNote();
+  $noteTitle.focus();
 };
 
 // If a note's title or text are empty, hide the save button
