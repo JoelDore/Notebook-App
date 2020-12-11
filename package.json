@@ -1,6 +1,6 @@
 {
   "name": "note-taker",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Web application for writing and saving notes using Express.js",
   "main": "server.js",
   "scripts": {

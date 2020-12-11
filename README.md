@@ -23,7 +23,7 @@ npm i express
 ```
 
 ## Usage
-<!-- Currently deployed with [Heroku App](#) -->
+Currently deployed with [Heroku App](https://still-crag-75411.herokuapp.com/)
 
 1. Click `Get Started` in deployed app.
 1. Click `+` in the upper right to create a new note.
@@ -31,11 +31,11 @@ npm i express
 1. Saved notes will appear in left column - click a saved note to view it.
 1. Click the `🗑️` icon next to any saved note to delete it.
 
-<!-- ![Demo](./Assets/Images/demo.gif) -->
+![Demo](./Images/demo.gif)
 
 ## Technologies Used
 - [Express.js](https://expressjs.com/) (backend)
-- [Heroku](https://www.heroku.com/) (deployment platform)
+- [Heroku](https://www.heroku.com/) (deployment)
 
 ## Contributing
 Contributions welcome!
