@@ -14,10 +14,7 @@
 * [Usage](#Usage)  
 * [Technologies](#Technologies-Used)  
 * [Contributing](#Contributing)  
-<!-- 
-* [Reflection](#Reflection)  
-* [Future Development](#Future-Development)  
--->
+* [Future Scope](#Future-Scope)  
 * [Questions](#Questions)
 
 ## Installation
@@ -29,9 +26,10 @@ npm i express
 <!-- Currently deployed with [Heroku App](#) -->
 
 1. Click `Get Started` in deployed app.
-1. Enter note information and click `save` icon to save.
-1. Click `edit` icon to edit a note.
-1. Click `trash` icon next to any note to delete it.
+1. Click `+` in the upper right to create a new note.
+1. Enter note title/text and click `💾` to save.
+1. Saved notes will appear in left column - click a saved note to view it.
+1. Click the `🗑️` icon next to any saved note to delete it.
 
 <!-- ![Demo](./Assets/Images/demo.gif) -->
 
@@ -46,15 +44,12 @@ Contributions welcome!
 3. Commit/push your changes  
 4. Create a new pull request  
 
-<!-- 
-## Reflection
-- 
-
-## Future Development
--  -->
+## Future Scope
+-  Add ability for user to edit notes
+- Add `Dark Mode` toggle
 
 ## Questions  
-Feel free to contact me at dore.joel.dore@gmail.com with any questions  
+If you have any questions, feel free to create an [Issue](https://github.com/JoelDore/Notebook-App/issues) or contact me directly at dore.joel.dore@gmail.com
 
 ## License
 This project is [MIT](https://github.com/JoelDore/Notebook-App/blob/main/LICENSE) licensed.  
