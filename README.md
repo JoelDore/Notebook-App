@@ -23,7 +23,7 @@ npm i express
 ```
 
 ## Usage
-Currently deployed with [Heroku App](https://still-crag-75411.herokuapp.com/)
+Currently deployed with [Heroku App](https://jd-notetaker.herokuapp.com/)
 
 1. Click `Get Started` in deployed app.
 1. Click `+` in the upper right to create a new note.
